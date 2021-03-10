@@ -1,5 +1,5 @@
 # datasets
-3 datasets packed into a single zip. Hosted here for easy download for use on my Jetson Nano Cluster
+3 datasets, each with images divided in to folders and numbered. Hosted here for easy download for use on my Jetson Nano Cluster.
 If you use these datasets please reference their origional source.
 
 # 1) Digits MNIST
